@@ -38,16 +38,16 @@ Please include the following details in the `README.md` file of **your forked re
 
 📘 **Example:**
 
-Name: Ram
+Name: Pushkar C
 
-Semester: 5th
+Semester: 3rd
 
-USN: 1BM21CS123
+USN: 1BM24CS228
 
-College Email: ram.cs24bmsce.ac.in
+College Email: pushkarc.cs24@bmsce.ac.in
 
 
-LeetCode Profile: https://leetcode.com/ram/
+LeetCode Profile: https://leetcode.com/u/5s2Sugvbiy/
 
 
 ---
